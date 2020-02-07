@@ -1,5 +1,5 @@
 
-#Processing of RNA-seq data with aim to define functions of Pcbp1 protein  in mouse emrionic stem cells
+# Processing of RNA-seq data with aim to define functions of Pcbp1 protein  in mouse emrionic stem cells
 
 ## **Project goals and objectives**
 Aim of this project is to study the expression profiles of mouse ESCs in the initial pluripotent state("Naive") and early primed state (EpiLC) with knockouts of the _pcbp1_ gene. 
@@ -18,7 +18,7 @@ The cDNA libraries were prepared with 3 replicas of each of the 4 cell types: Na
 ## Results
 In the issue, the tables of differentially expressed genes for Naive and EpiLC _pcbp1_-KO cells were obtained. Analysis of these tables allowed us to acquire schemes of the signaling pathways affected at knockout of this gene. Next is planned a detailed analysis of the genes involved in the signaling pathways responsible for maintaining the  mouse embryonic stem cell pluripotency.
 
-##References
+## References
 The work was performed based on the materials of this article:
 
 Dündar, F., Skrabanek, L., & Zumbo, P. (2015). Introduction to differential gene expression analysis using RNA-seq. Appl. Bioinformatics, 1-67.
